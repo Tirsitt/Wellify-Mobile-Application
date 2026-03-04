@@ -1,50 +1,47 @@
-# Welcome to your Expo app 👋
+# Wellify – Wellness Mobile App 🌿
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+**Wellify** is a mobile app designed to help users maintain healthy habits, explore wellness content, and stay informed with educational articles and notifications — all in a clean, intuitive interface.
 
-## Get started
+---
 
-1. Install dependencies
+## Demo Video
+Watch the demo here: [YouTube Link](https://www.youtube.com/shorts/q1RXgIJ2K44)
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## 📱 Key Features
+- **Login screen** with personalized greeting  
+- **Content list & detail screens** for wellness articles  
+- **Notifications** and quick info cards for daily wellness tips  
+- **Images & visuals** included to enhance engagement  
+- **Responsive layout** with smooth navigation  
+- **Loading and empty states** for a polished user experience  
+- Mock data used for demonstration purposes
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🎯 Target Users
+Wellify is perfect for anyone looking to **improve their wellness routine**, discover new health tips, or track informative wellness content on their mobile device.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+---
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🎨 Design & Inspiration
+The app’s design draws inspiration from **wellness-focused Pinterest boards**, emphasizing clean visuals, calm color palettes, and intuitive spacing to create a relaxing user experience.
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 🛠 Tech Stack
+- **React Native**  
+- **Expo**  
+- **TypeScript**
 
+---
+
+## ▶️ Run Locally
 ```bash
-npm run reset-project
+# Install dependencies
+npm install
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# Start the Expo project
+npx expo start
